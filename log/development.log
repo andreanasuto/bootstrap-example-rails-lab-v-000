@@ -69,3 +69,10 @@ Cannot render console from 98.14.246.69! Allowed networks: 127.0.0.1, ::1, 127.0
 
 Started GET "/assets/application.self-89655ea40500a342dad2ac571974c28abab3e3897c63fef4c2d06d7564836879.js?body=1" for 98.14.246.69 at 2018-03-22 23:00:38 +0000
 Cannot render console from 98.14.246.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 98.14.246.69 at 2018-03-22 23:01:55 +0000
+Cannot render console from 98.14.246.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 88ms (Views: 87.1ms)
